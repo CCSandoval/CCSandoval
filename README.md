@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm @CCSandoval
 
-- 🔭 I’m currently working on a research project management web application (for personal educational purposes)
-- 👀 I'm interested in Artificial Intelligence and Mobile Development
-- 🌱 I’m currently learning NextJS, GraphQL, and Typescript
-- 👯 I’m looking to collaborate on small projects, mainly based on web front-end and graphic interfaces
+- 🔭 I’m currently working at Auco.ai
+- 👀 I'm interested in Web Development
+- 🌱 I’m currently learning Backend Basics
 - 📫 How to reach me: You can email me at krcamilo0417@gmail.com
